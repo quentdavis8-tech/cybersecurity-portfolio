@@ -3,7 +3,7 @@
 Welcome to my cybersecurity portfolio. This repository serves as a central hub documenting my hands-on technical experience, home lab deployments, and security research. My work focuses on threat detection, network security, and security automation.
 
 📬 **Connect with me:**
-* **LinkedIn:** [linkedin.com/in/quenteldavis](https://linkedin.com)
+
 * **Email:** quentdavis8@gmail.com
 
 
