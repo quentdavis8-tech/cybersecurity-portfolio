@@ -7,4 +7,4 @@
 |--------|-------------|
 | reflection/ | My reflection paper for this portfolio entry |
 ## What I Learned
-[One or two sentences previewing the reflection — fill this in after writing your paper.]
+In this entry, I reflect on learning AWS CloudFormation, troubleshooting YAML template deployments, and understanding the hierarchy of AI and machine learning.
